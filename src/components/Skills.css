@@ -1,0 +1,20 @@
+.skills-section {
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .skills-section h2 {
+    color: #333;
+  }
+  
+  .skills-section ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .skills-section ul li {
+    color: #555;
+    padding: 10px 0;
+  }
+  

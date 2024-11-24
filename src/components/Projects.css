@@ -1,0 +1,36 @@
+.projects-container {
+    padding: 30px;
+    background-color: #f8f8f8;
+  }
+  
+  .section-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .projects-list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .project-card {
+    margin: 10px;
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  .project-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .project-description {
+    font-size: 1rem;
+    color: #777;
+  }
+  
