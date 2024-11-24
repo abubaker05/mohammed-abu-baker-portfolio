@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/static/css/main.8946f537.css",
-    "main.js": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/static/js/main.8f47f398.js",
-    "static/js/453.1407b060.chunk.js": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/static/js/453.1407b060.chunk.js",
-    "static/media/linkedin pic.jpeg": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/static/media/linkedin pic.e910e21dee88dde150dc.jpeg",
-    "index.html": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/index.html",
-    "main.8946f537.css.map": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/static/css/main.8946f537.css.map",
-    "main.8f47f398.js.map": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/static/js/main.8f47f398.js.map",
-    "453.1407b060.chunk.js.map": "/abubaker05/mohammed-abu-baker-portfolio/tree/main/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/mohammed-abu-baker-portfolio/static/css/main.437c1b14.css",
+    "main.js": "/mohammed-abu-baker-portfolio/static/js/main.c407edd6.js",
+    "static/js/453.1407b060.chunk.js": "/mohammed-abu-baker-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/linkedin pic.jpeg": "/mohammed-abu-baker-portfolio/static/media/linkedin pic.e910e21dee88dde150dc.jpeg",
+    "index.html": "/mohammed-abu-baker-portfolio/index.html",
+    "main.437c1b14.css.map": "/mohammed-abu-baker-portfolio/static/css/main.437c1b14.css.map",
+    "main.c407edd6.js.map": "/mohammed-abu-baker-portfolio/static/js/main.c407edd6.js.map",
+    "453.1407b060.chunk.js.map": "/mohammed-abu-baker-portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8946f537.css",
-    "static/js/main.8f47f398.js"
+    "static/css/main.437c1b14.css",
+    "static/js/main.c407edd6.js"
   ]
 }
