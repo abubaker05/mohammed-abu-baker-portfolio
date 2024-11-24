@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mohammed-abu-baker-portfolio/static/css/main.437c1b14.css",
+    "main.js": "/mohammed-abu-baker-portfolio/static/js/main.c407edd6.js",
+    "static/js/453.1407b060.chunk.js": "/mohammed-abu-baker-portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/linkedin pic.jpeg": "/mohammed-abu-baker-portfolio/static/media/linkedin pic.e910e21dee88dde150dc.jpeg",
+    "index.html": "/mohammed-abu-baker-portfolio/index.html",
+    "main.437c1b14.css.map": "/mohammed-abu-baker-portfolio/static/css/main.437c1b14.css.map",
+    "main.c407edd6.js.map": "/mohammed-abu-baker-portfolio/static/js/main.c407edd6.js.map",
+    "453.1407b060.chunk.js.map": "/mohammed-abu-baker-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.437c1b14.css",
+    "static/js/main.c407edd6.js"
+  ]
+}
